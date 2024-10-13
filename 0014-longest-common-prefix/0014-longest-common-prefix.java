@@ -5,7 +5,7 @@ class Solution {
         int minIndex = min(strs);
         int minLength = strs[minIndex].length();
         String result = "";
-
+        if( minLength>0){
         for (int i = 0; i < strs.length; i++) {
             for (int j = 0; j < minLength; j++) {
                 if (strs[minIndex].charAt(j) != strs[i].charAt(j)) {
@@ -14,7 +14,7 @@ class Solution {
                 }
             }
         }
-
+        }
         if (minLength > 0) {
             result = strs[minIndex].substring(0, minLength);
         }
