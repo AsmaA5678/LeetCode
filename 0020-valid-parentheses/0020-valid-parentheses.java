@@ -13,13 +13,12 @@ class Solution {
                 char last = par.get(par.size()-1);
                 if((c==']' && last=='[')||(c=='}' && last=='{' )|| (c==')' && last=='(' ) ){
                 par.remove(par.size()-1);
+                }
+                else {
+                    return false;
+                }
             }
-            }
-           
-           
         }
         return par.isEmpty();
-
-
     }
 }
