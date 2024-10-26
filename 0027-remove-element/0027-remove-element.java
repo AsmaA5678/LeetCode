@@ -7,7 +7,6 @@ class Solution {
                 k++;
             }
         }
-        Arrays.fill(nums, k, nums.length, 0);
         return k;
     }    
 }
