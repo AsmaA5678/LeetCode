@@ -1,15 +1,13 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-         HashMap<Character, Integer> sCount = count(s);
-        HashMap<Character, Integer> tCount = count(t);
-        for (char c : sCount.keySet()) {
-            int x = sCount.get(c);
-            int y = tCount.getOrDefault(c, 0);
-            if (x > y) {
-                return false;
-            }
+        if (s.length() != t.length()) {
+            return false;
         }
-        return true;
+
+        HashMap<Character, Integer> sCount = count(s);
+        HashMap<Character, Integer> tCount = count(t);
+
+        return sCount.equals(tCount);
     }
     public static HashMap<Character, Integer> count(String string) {
         HashMap<Character, Integer> charCount = new HashMap<>();
