@@ -3,7 +3,6 @@ class Solution {
         if (s.length() != t.length()) {
             return false;
         }
-
         HashMap<Character, Integer> sCount = count(s);
         HashMap<Character, Integer> tCount = count(t);
 
