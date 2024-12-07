@@ -6,7 +6,7 @@ class Solution {
         int start=0;
         int[] diff=difference(gas, cost);
         for (int j=0;j<n;j++){
-            total=+diff[j];
+            total+=diff[j];
             if(total<0){
                 total=0;
                 start=j+1;
