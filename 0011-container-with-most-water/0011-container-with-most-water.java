@@ -5,6 +5,7 @@ class Solution {
         int max= 0;
 
     while (left < right) {
+
         int area = Math.min(height[left], height[right]) * (right - left);
         max = Math.max(max, area);
 
