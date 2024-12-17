@@ -1,8 +1,6 @@
 class Solution {
     public int lengthOfLastWord(String s) {
         int a = lastWordIndex(s);
-
-      
         int length = 0;
         for (int i = a; i >= 0; i--) {
             if (s.charAt(i) == ' ') { 
