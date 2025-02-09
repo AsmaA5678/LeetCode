@@ -4,7 +4,7 @@ class Solution {
             if (haystack.charAt(i) == needle.charAt(0)) {
                 int x = 0;
                 int y = i;
-                while (x < needle.length()  && y < haystack.length()  && haystack.charAt(y) ==              needle.charAt(x)) {
+                while (x < needle.length()  && y < haystack.length()  && haystack.charAt(y)==needle.charAt(x)) {
                     y++;
                     x++;
                 }
