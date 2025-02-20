@@ -7,9 +7,9 @@ class Solution {
         int end = rows*cols-1;
         while(start<=end){
             int mid=start + (end -start)/2;
-            if(matrix[mid/cols][mid%rows]==target){
+            if(matrix[mid/cols][mid%cols]==target){
                 return true;
-            }else if(matrix[mid/cols][mid%rows]<target){
+            }else if(matrix[mid/cols][mid%cols]<target){
                 start = mid+1;
             }else{
                 end=mid-1;
