@@ -6,7 +6,7 @@ class Solution {
            map.put(c,map.getOrDefault(c,0)+1) ;
         }
         List<Integer> valuesList = new ArrayList<>(map.values()); //map.values()
-        Collections.sort(valuesList);
+        
         HashSet<Integer> freq=new HashSet<>();
         for(int i=valuesList.size()-1;i>=0;i--){
             int currentfreq=valuesList.get(i);
