@@ -5,13 +5,16 @@ class Solution {
         for(char c:s.toCharArray()){
            map.put(c,map.getOrDefault(c,0)+1) ;
         }
-       List<Integer> keysList = new ArrayList<>(map.values()); //map.values()
-        Collections.sort(keysList);
-        for(int i=keysList.size()-1;i>0;i--){
-            if(keysList.get(i)==keysList.get(i-1)){
-                keysList.set(i-1,keysList.get(i)-1);
+        List<Integer> valuesList = new ArrayList<>(map.values()); //map.values()
+        Collections.sort(valuesList);
+        HashSet<Integer> freq=new HashSet<>();
+        for(int i=valuesList.size()-1;i>=0;i--){
+            int currentfreq=valuesList.get(i);
+            while(currentfreq>0 && freq.contains(currentfreq)){
+                currentfreq--;
                 count++;
             }
+            freq.add(currentfreq);
         }
         return count;
     }
