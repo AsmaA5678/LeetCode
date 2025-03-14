@@ -8,7 +8,7 @@ class Solution {
         List<Integer> valuesList = new ArrayList<>(map.values()); //map.values()
         
         HashSet<Integer> freq=new HashSet<>();
-        for(int i=valuesList.size()-1;i>=0;i--){
+        for(int i=0;i<valuesList.size();i++){
             int currentfreq=valuesList.get(i);
             while(currentfreq>0 && freq.contains(currentfreq)){
                 currentfreq--;
