@@ -7,7 +7,8 @@ class Solution {
                 cnt++;
             }else if(nums[i]!=x){
                 cnt--;
-            }if(cnt<0){
+            }
+            if(cnt<0){
                 x=nums[i];
                 cnt=1;
             }
