@@ -1,24 +1,18 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-        int a = lastWordIndex(s);
-        int length = 0;
-        for (int i = a; i >= 0; i--) {
-            if (s.charAt(i) == ' ') { 
-                break;
-            }
-            length++;
+        int lastindex=lastword(s);
+        int index=lastword(s);
+        while(s.charAt(index)!=' '){
+            index--;
         }
-
-        return length; 
+        return lastindex-index;
     }
-
-    public int lastWordIndex(String s) {
-        int i = s.length() - 1; 
-
-        while (i >= 0 && s.charAt(i) == ' ') {
+    public int lastword(String s){
+        int i=s.length()-1;
+        while(s.charAt(i)==' '){
             i--;
         }
-
         return i;
     }
+    
 }
