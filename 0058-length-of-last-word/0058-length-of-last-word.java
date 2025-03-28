@@ -2,7 +2,7 @@ class Solution {
     public int lengthOfLastWord(String s) {
         int lastindex=lastword(s);
         int index=lastword(s);
-        while(s.charAt(index)!=' '){
+        while(index>=0 && s.charAt(index)!=' '){
             index--;
         }
         return lastindex-index;
