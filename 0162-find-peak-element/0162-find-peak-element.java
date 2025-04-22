@@ -7,12 +7,10 @@ class Solution {
         if (start == end) return start;
 
         int mid = start + (end - start) / 2;
-
         if (nums[mid] > nums[mid + 1]) {
-            // Peak is on the left side (including mid)
+            
             return binarySearch(nums, start, mid);
         } else {
-            // Peak is on the right side
             return binarySearch(nums, mid + 1, end);
         }
     }
