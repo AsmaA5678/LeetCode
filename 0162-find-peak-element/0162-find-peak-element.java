@@ -1,16 +1,19 @@
 class Solution {
     public int findPeakElement(int[] nums) {
-        if (nums.length == 1) return 0;
-        
-        for (int i = 0; i < nums.length; i++) {
-            if (i == 0 && nums[i] > nums[i + 1]) {
-                return i;
-            } else if (i == nums.length - 1 && nums[i] > nums[i - 1]) {
-                return i;
-            } else if (i > 0 && i < nums.length - 1 && nums[i] > nums[i - 1] && nums[i] > nums[i + 1]) {
-                return i;
-            }
+        return binarySearch(nums, 0, nums.length - 1);
+    }
+
+    private int binarySearch(int[] nums, int start, int end) {
+        if (start == end) return start;
+
+        int mid = start + (end - start) / 2;
+
+        if (nums[mid] > nums[mid + 1]) {
+            // Peak is on the left side (including mid)
+            return binarySearch(nums, start, mid);
+        } else {
+            // Peak is on the right side
+            return binarySearch(nums, mid + 1, end);
         }
-        return -1;
     }
 }
