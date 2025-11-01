@@ -13,7 +13,7 @@ public class Solution {
     public boolean hasCycle(ListNode head) {
         HashSet<ListNode> visited = new HashSet<>();
         ListNode current=head;
-        while(current.next!=null){
+        while(current!=null){
             if(visited.contains(current)){
                 return true;
             }
