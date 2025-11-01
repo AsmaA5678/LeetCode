@@ -22,6 +22,6 @@ class Solution {
         head.next=previous;
         previous=head;
         head=nextNode;  
-        return reverseList( head,  previous);    
+        return reverseList(head, previous);    
     }
 }
