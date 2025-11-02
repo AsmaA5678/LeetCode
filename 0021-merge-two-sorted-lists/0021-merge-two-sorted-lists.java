@@ -25,15 +25,11 @@ class Solution {
                 bpointer=bpointer.next;
             }
         }
-        while(apointer!=null){
+        if(apointer!=null){
             nextNode.next=apointer;
-            nextNode=nextNode.next;
-            apointer=apointer.next;
         }
-        while(bpointer!=null){
+        if(bpointer!=null){
             nextNode.next=bpointer;
-            nextNode=nextNode.next;
-            bpointer=bpointer.next;
         }
         return newNode.next;
     }
