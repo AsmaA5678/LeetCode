@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AsmaA5678/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0620-not-boring-movies](https://github.com/AsmaA5678/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/AsmaA5678/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/AsmaA5678/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
