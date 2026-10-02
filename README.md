@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/AsmaA5678/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AsmaA5678/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -34,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/AsmaA5678/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/AsmaA5678/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/AsmaA5678/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/AsmaA5678/LeetCode/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
