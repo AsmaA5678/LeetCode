@@ -1,21 +1,16 @@
-import java.math.BigInteger;
-
 class Solution {
     public int[] plusOne(int[] digits) {
-        StringBuilder str = new StringBuilder();
-        for (int i = 0; i < digits.length; i++) {
-            str.append(digits[i]);
+        int n=digits.length;
+        int carry=1;
+        for(int i=n-1;i>=0;i--){
+            int sum=digits[i]+carry;
+            digits[i]=sum%10;
+            carry=sum/10;
         }
-        
-        BigInteger number = new BigInteger(str.toString());
-        number = number.add(BigInteger.ONE);
-        
-        String newStr = number.toString();
-        
-        int[] result = new int[newStr.length()];
-        for (int i = 0; i < newStr.length(); i++) {
-            result[i] = newStr.charAt(i) - '0'; 
+        if(carry!=0){
+            digits=new int[n+1];
+            digits[0]=1;
         }
-        return result;
+        return digits;
     }
 }
