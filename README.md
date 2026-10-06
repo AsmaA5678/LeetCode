@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AsmaA5678/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AsmaA5678/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0443-string-compression](https://github.com/AsmaA5678/LeetCode/tree/main/0443-string-compression/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AsmaA5678/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0415-add-strings](https://github.com/AsmaA5678/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0443-string-compression](https://github.com/AsmaA5678/LeetCode/tree/main/0443-string-compression/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
