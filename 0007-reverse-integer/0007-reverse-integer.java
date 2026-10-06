@@ -1,22 +1,15 @@
 class Solution {
     public int reverse(int x) {
-      StringBuilder str=new StringBuilder();
-      String inputString=Integer.toString(x);
-      int start=0;
-      if(inputString.charAt(0)=='-'){
-        str.append('-');
-        start++;
-      }
-      int end=inputString.length()-1;
-      for(int i=end;i>=start;i--){
-        str.append(inputString.charAt(i));
-      }
-	//Integer.parseInt(str.toString()); 
-    long reversed = Long.parseLong(str.toString());
-    if (reversed > Integer.MAX_VALUE || reversed < Integer.MIN_VALUE) {
-        return 0;
-    }
-
-    return (int) reversed;
+        int current=x;
+        int result=0;
+        while(current!=0){
+            if(result>Integer.MAX_VALUE/10) return 0;
+            if(result==Integer.MAX_VALUE/10 && current%10>7) return 0;
+            if(result<Integer.MIN_VALUE/10) return 0;
+            if(result==Integer.MIN_VALUE/10 && current%10<-8) return 0;
+            result=result*10+current%10;
+            current=current/10;
+        }
+        return result;
     }
 }
