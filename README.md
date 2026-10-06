@@ -42,8 +42,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/AsmaA5678/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/AsmaA5678/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0415-add-strings](https://github.com/AsmaA5678/LeetCode/tree/main/0415-add-strings/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AsmaA5678/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/AsmaA5678/LeetCode/tree/main/0415-add-strings/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/AsmaA5678/LeetCode/tree/main/0415-add-strings/) | Easy |
 <!---LeetCode Topics End-->
