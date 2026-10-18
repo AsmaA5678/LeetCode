@@ -3,11 +3,11 @@ class Solution {
         int count=0;
         int max=Integer.MIN_VALUE;
         for(int i=0;i<s.length();i++){
-            if("aeiouAEIOU".indexOf(s.charAt(i))!=-1){
+            if(isVowel(s.charAt(i))){
                 count++;
             }
             if(i>=k){
-                if("aeiouAEIOU".indexOf(s.charAt(i-k))!=-1){
+                if(isVowel(s.charAt(i-k))){
                     count--;
                 }
             }
@@ -19,4 +19,8 @@ class Solution {
         }
         return max;
     }
+    private boolean isVowel(char c) {
+        return c == 'a' || c == 'e' || c == 'i'
+            || c == 'o' || c == 'u';
+        }
 }
