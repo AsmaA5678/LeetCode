@@ -9,7 +9,7 @@ class Solution {
             if(right-left-highestLetter(count)<=k){
                 max=Math.max(max,right-left);
             }
-            if(right-left-highestLetter(count)>k){
+            while(right-left-highestLetter(count)>k){
                 left++;
                 count[s.charAt(left)-'A']--;
             }
