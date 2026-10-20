@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/AsmaA5678/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/AsmaA5678/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AsmaA5678/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AsmaA5678/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AsmaA5678/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Two Pointers
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AsmaA5678/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +95,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 <!---LeetCode Topics End-->
