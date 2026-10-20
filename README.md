@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AsmaA5678/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0056-merge-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/AsmaA5678/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/AsmaA5678/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AsmaA5678/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AsmaA5678/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -87,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/AsmaA5678/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
