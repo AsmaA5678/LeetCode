@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/AsmaA5678/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/AsmaA5678/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AsmaA5678/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/AsmaA5678/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AsmaA5678/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsmaA5678/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/AsmaA5678/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,13 +111,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1046-last-stone-weight](https://github.com/AsmaA5678/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 <!---LeetCode Topics End-->
