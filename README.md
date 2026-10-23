@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AsmaA5678/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0867-transpose-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AsmaA5678/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/AsmaA5678/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 ## Two Pointers
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/AsmaA5678/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0867-transpose-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
