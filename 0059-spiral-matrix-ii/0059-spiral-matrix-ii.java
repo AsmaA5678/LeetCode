@@ -6,7 +6,7 @@ class Solution {
         int right=n-1;
         int x=1;
         int[][] result=new int[n][n];
-        while(x<=n*n && top<=bottom && left<=right){
+        while(top<=bottom && left<=right){
             for(int i=left;i<=right;i++){
                 result[top][i]=x;
                 x++;
