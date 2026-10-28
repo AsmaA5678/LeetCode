@@ -1,54 +1,42 @@
 class Solution {
     public void gameOfLife(int[][] board) {
-        int rows = board.length;
-        int cols = board[0].length;
-        int[][] copy = new int[rows][cols];
-
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                copy[i][j] = board[i][j];
+        if(board==null || board.length==0 || board[0].length==0){
+            return;
+        }
+        for(int i=0;i<board.length;i++){
+            for(int j=0;j<board[0].length;j++){
+                int current= board[i][j];
+                int count=countNeighbors(board,i,j);
+                if(current==1 && count<2){
+                    board[i][j]=-1;
+                }else if(current==1 && count>3){
+                    board[i][j]=-1;
+                }else if(current==0 && count==3){
+                    board[i][j]=2;
+                }
             }
         }
-
-     
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                int liveN = countLiveNeighbors(copy, i, j);
-                update(board, copy[i][j], i, j, liveN);
+        for(int i=0;i<board.length;i++){
+            for(int j=0;j<board[0].length;j++){
+                board[i][j]=board[i][j]>0?1:0;
             }
         }
     }
-
-    public int countLiveNeighbors(int[][] board, int i, int j) {
-        int count = 0;
-        int rows = board.length, cols = board[0].length;
-        int[] directions = {-1, 0, 1};
-
-        for (int r : directions) {
-            for (int c : directions) {
-                if (r == 0 && c == 0) continue;
-                int row = i + r, col = j + c;
-                if (row >= 0 && row < rows && col >= 0 && col < cols) {
-                    count += board[row][col]; 
+    public int countNeighbors(int[][] board,int row,int col){
+        int count=0;
+        for(int i=row-1;i<=row+1;i++){
+            for(int j=col-1;j<=col+1;j++){
+                if(i<0 || i>board.length-1 || j<0 || j>board[0].length-1){
+                    continue;
+                }
+                if(i==row && j==col){
+                    continue;
+                }
+                if(board[i][j]==-1 || board[i][j]==1){
+                    count++;
                 }
             }
         }
         return count;
-    }
-
-    public void update(int[][] board, int currentState, int i, int j, int liveNeighbors) {
-        if (currentState == 1) { 
-            if (liveNeighbors < 2 || liveNeighbors > 3) {
-                board[i][j] = 0;
-            } else {
-                board[i][j] = 1; 
-            }
-        } else { 
-            if (liveNeighbors == 3) {
-                board[i][j] = 1; 
-            } else {
-                board[i][j] = 0; 
-            }
-        }
     }
 }
