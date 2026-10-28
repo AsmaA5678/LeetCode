@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AsmaA5678/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/AsmaA5678/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/AsmaA5678/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AsmaA5678/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AsmaA5678/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0289-game-of-life](https://github.com/AsmaA5678/LeetCode/tree/main/0289-game-of-life/) | Medium |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsmaA5678/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/AsmaA5678/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/AsmaA5678/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/AsmaA5678/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AsmaA5678/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/AsmaA5678/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0289-game-of-life](https://github.com/AsmaA5678/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/AsmaA5678/LeetCode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
