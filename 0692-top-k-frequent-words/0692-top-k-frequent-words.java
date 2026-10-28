@@ -6,21 +6,26 @@ class Solution {
         }
 
         PriorityQueue<String> heap=new PriorityQueue<>((a,b)->{
-            int comparison=Integer.compare(count.get(b),count.get(a));
+            int comparison=Integer.compare(count.get(a),count.get(b));
             if(comparison==0){
-            return a.compareTo(b);
+            return b.compareTo(a);
             } 
             return comparison;
            
         });
         
-        heap.addAll(count.keySet());
-
-        List<String> result = new ArrayList<>();
-        for (int i = 0; i < k; i++) {
-            result.add(heap.poll());
+        for(String word : count.keySet()){
+            heap.offer(word);
+            if(heap.size()>k){
+                heap.poll();
+            }
         }
 
+        List<String> result = new ArrayList<>();
+        while (!heap.isEmpty()) {
+            result.add(heap.poll());
+        }
+        Collections.reverse(result);
         return result;
     }
 }
