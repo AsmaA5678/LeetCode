@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AsmaA5678/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0041-first-missing-positive](https://github.com/AsmaA5678/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/AsmaA5678/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsmaA5678/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0041-first-missing-positive](https://github.com/AsmaA5678/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/AsmaA5678/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/AsmaA5678/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AsmaA5678/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
