@@ -12,12 +12,7 @@ class Solution {
                         max=Math.max(max,grid[a][b]);
                     }
                 }
-                result[r][c]=max;
-                c++;
-                if(c==n-2){
-                    c=0;
-                    r++;
-                }
+                result[i][j]=max;
             }
         }
         return result;
