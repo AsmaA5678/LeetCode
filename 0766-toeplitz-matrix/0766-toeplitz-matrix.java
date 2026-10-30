@@ -11,7 +11,7 @@ class Solution {
                 j++;
             }
         }
-        for(int j=0;j<matrix[0].length;j++){
+        for(int j=1;j<matrix[0].length;j++){
             int i=0;
             int col=j;
             while(i<matrix.length-1 && col<matrix[0].length-1){
