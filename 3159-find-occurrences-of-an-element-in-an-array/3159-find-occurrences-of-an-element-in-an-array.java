@@ -8,7 +8,7 @@ class Solution {
             }
         }
         for(int i=0;i<queries.length;i++){
-            if(queries[i]>nums.length || queries[i]> track.size()){
+            if(queries[i]> track.size()){
                 result[i]=-1;
             }else{
                 result[i]=track.get(queries[i]-1);
