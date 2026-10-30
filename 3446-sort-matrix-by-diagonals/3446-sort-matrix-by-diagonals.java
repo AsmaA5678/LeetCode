@@ -1,27 +1,11 @@
 class Solution {
     public int[][] sortMatrix(int[][] grid) {
         for(int j=1;j<grid[0].length;j++){
-            int i=0;
-            PriorityQueue<Integer> heap=sortDiagonal(grid,i,j);
-            int r=i;
-            int c=j;
-            while(r<grid.length && c<grid[0].length){
-                grid[r][c]=heap.poll();
-                r++;
-                c++;
-            }
+            sortDiagonal(grid,0,j);
         }
 
         for(int i=0;i<grid.length;i++){
-            int j=0;
-            PriorityQueue<Integer> heap=sortDiagonal(grid,i,j);
-            int r=i;
-            int c=j;
-            while(r<grid.length && c<grid[0].length){
-                grid[r][c]=heap.poll();
-                r++;
-                c++;
-            }
+           sortDiagonal(grid,i,0);
         }
         return grid;
     }
@@ -39,6 +23,15 @@ class Solution {
             r++;
             c++;
         }
+
+        r=i;
+        c=j;
+        while(r<grid.length && c<grid[0].length){
+                grid[r][c]=heap.poll();
+                r++;
+                c++;
+        }
+
         return heap;
     }
 }
