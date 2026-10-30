@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AsmaA5678/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/AsmaA5678/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [2373-largest-local-values-in-a-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AsmaA5678/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [2373-largest-local-values-in-a-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
