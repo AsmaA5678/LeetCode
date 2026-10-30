@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/AsmaA5678/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AsmaA5678/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/AsmaA5678/LeetCode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/AsmaA5678/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AsmaA5678/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
