@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AsmaA5678/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/AsmaA5678/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AsmaA5678/LeetCode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AsmaA5678/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/AsmaA5678/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AsmaA5678/LeetCode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/AsmaA5678/LeetCode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/AsmaA5678/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AsmaA5678/LeetCode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AsmaA5678/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## Prefix Sum
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/AsmaA5678/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
 | [1046-last-stone-weight](https://github.com/AsmaA5678/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AsmaA5678/LeetCode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
