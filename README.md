@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/AsmaA5678/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0498-diagonal-traverse](https://github.com/AsmaA5678/LeetCode/tree/main/0498-diagonal-traverse/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AsmaA5678/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -40,11 +41,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/AsmaA5678/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AsmaA5678/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/AsmaA5678/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/AsmaA5678/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AsmaA5678/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AsmaA5678/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/AsmaA5678/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/AsmaA5678/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/AsmaA5678/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/AsmaA5678/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
@@ -133,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AsmaA5678/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AsmaA5678/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AsmaA5678/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/AsmaA5678/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
