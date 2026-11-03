@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2373-largest-local-values-in-a-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AsmaA5678/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AsmaA5678/LeetCode/tree/main/3160-find-the-number-of-distinct-colors-among-the-balls/) | Medium |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/AsmaA5678/LeetCode/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/AsmaA5678/LeetCode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AsmaA5678/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/AsmaA5678/LeetCode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AsmaA5678/LeetCode/tree/main/3160-find-the-number-of-distinct-colors-among-the-balls/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AsmaA5678/LeetCode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AsmaA5678/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AsmaA5678/LeetCode/tree/main/3160-find-the-number-of-distinct-colors-among-the-balls/) | Medium |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/AsmaA5678/LeetCode/tree/main/3185-count-pairs-that-form-a-complete-day-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AsmaA5678/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Prefix Sum
