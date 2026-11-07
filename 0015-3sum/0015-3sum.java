@@ -9,13 +9,10 @@ class Solution {
             while(midlle<right){
                 if(nums[left]+nums[right]+nums[midlle]==0){
                     result.add(Arrays.asList(nums[left],nums[right],nums[midlle]));
-                    if( midlle + 1 < right){
                         midlle++;
                         while(midlle < right && nums[midlle]==nums[midlle-1]) midlle++;
-                    }else{
-                        break;
-                    }
-                }else if(nums[left]+nums[right]+nums[midlle]<0 && midlle + 1 < right){
+                    
+                }else if(nums[left]+nums[right]+nums[midlle]<0){
                     midlle++;
                 }else{
                     right--;
