@@ -9,7 +9,12 @@ class Solution {
         Arrays.sort(nums,(a,b)->Integer.compare(Math.abs(a),Math.abs(b)));
         for(int num:nums){
             int remaining=map.get(num);
+            if (num == 0) {
+                if (remaining % 2 != 0) return false;
+                continue;
+            }
             int doubleCount=map.getOrDefault(num*2,0);
+
             if(doubleCount<remaining){
                 return false;
             }
