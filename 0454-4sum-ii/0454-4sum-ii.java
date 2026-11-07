@@ -9,7 +9,7 @@ class Solution {
         int result=0;
         for(int i=0;i<nums3.length;i++){
             for(int j=0;j<nums4.length;j++){
-                if(map.containsKey(-1*(nums3[i]+nums4[j])) && map.get(-1*(nums3[i]+nums4[j]))!=0){
+                if(map.containsKey(-1*(nums3[i]+nums4[j]))){
                     result+=map.get(-1*(nums3[i]+nums4[j]));
                 }
             }
