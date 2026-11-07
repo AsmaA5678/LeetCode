@@ -14,7 +14,6 @@ class Solution {
                 return false;
             }
             map.put(num*2,doubleCount-remaining);
-            map.put(num,0);
         }
         return true;
     }
