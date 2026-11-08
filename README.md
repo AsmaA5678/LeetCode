@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/AsmaA5678/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsmaA5678/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1424-diagonal-traverse-ii](https://github.com/AsmaA5678/LeetCode/tree/main/1424-diagonal-traverse-ii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/AsmaA5678/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AsmaA5678/LeetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AsmaA5678/LeetCode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/AsmaA5678/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AsmaA5678/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsmaA5678/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/AsmaA5678/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
