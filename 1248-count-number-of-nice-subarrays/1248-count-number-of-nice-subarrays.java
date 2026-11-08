@@ -1,13 +1,5 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]%2==0){
-                nums[i]=0;
-            }else{
-                nums[i]=1;
-            }
-        }
-
         int count1=countSubArrays(nums,k);
         int count2=countSubArrays(nums,k-1);
         return count1-count2;
@@ -19,9 +11,9 @@ class Solution {
         int sum=0;
         int count=0;
         while(right<nums.length){
-            sum+=nums[right];
+            sum+=nums[right]%2;
             while(sum>goal){
-                sum-=nums[left];
+                sum-=nums[left]%2;
                 left++;
             }
             count+=right-left+1;
