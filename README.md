@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0454-4sum-ii](https://github.com/AsmaA5678/LeetCode/tree/main/0454-4sum-ii/) | Medium |
 | [0498-diagonal-traverse](https://github.com/AsmaA5678/LeetCode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/AsmaA5678/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AsmaA5678/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/AsmaA5678/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0454-4sum-ii](https://github.com/AsmaA5678/LeetCode/tree/main/0454-4sum-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/AsmaA5678/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/AsmaA5678/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AsmaA5678/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AsmaA5678/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AsmaA5678/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsmaA5678/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
