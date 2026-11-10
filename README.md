@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/AsmaA5678/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/AsmaA5678/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/AsmaA5678/LeetCode/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AsmaA5678/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/AsmaA5678/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/AsmaA5678/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/AsmaA5678/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/AsmaA5678/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/AsmaA5678/LeetCode/tree/main/0923-3sum-with-multiplicity/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/AsmaA5678/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/AsmaA5678/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/AsmaA5678/LeetCode/tree/main/0767-reorganize-string/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/AsmaA5678/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/AsmaA5678/LeetCode/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/AsmaA5678/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1424-diagonal-traverse-ii](https://github.com/AsmaA5678/LeetCode/tree/main/1424-diagonal-traverse-ii/) | Medium |
