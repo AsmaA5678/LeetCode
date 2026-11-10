@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/AsmaA5678/LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1046-last-stone-weight](https://github.com/AsmaA5678/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsmaA5678/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AsmaA5678/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1424-diagonal-traverse-ii](https://github.com/AsmaA5678/LeetCode/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1470-shuffle-the-array](https://github.com/AsmaA5678/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/AsmaA5678/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/AsmaA5678/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsmaA5678/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AsmaA5678/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AsmaA5678/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AsmaA5678/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AsmaA5678/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Sorting
