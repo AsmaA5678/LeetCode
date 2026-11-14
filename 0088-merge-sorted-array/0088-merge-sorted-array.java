@@ -4,22 +4,15 @@ class Solution {
         int i1=m-1;
         int i=m+n-1;
         while(i2>=0){
-            if(i1>=0){
-                if(nums2[i2]>nums1[i1]){
-                nums1[i]=nums2[i2];
-                i--;
-                i2--;
-                }else{
-                    nums1[i]=nums1[i1];
+            if(i1>=0 && nums1[i1]>nums2[i2]){
+                nums1[i]=nums1[i1];
                     i--;
                     i1--;
-                }
             }else{
                 nums1[i]=nums2[i2];
                 i--;
                 i2--;
             }
-            
         }
     }
 }
