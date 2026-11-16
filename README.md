@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/AsmaA5678/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/AsmaA5678/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/AsmaA5678/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0038-count-and-say](https://github.com/AsmaA5678/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/AsmaA5678/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/AsmaA5678/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/AsmaA5678/LeetCode/tree/main/0415-add-strings/) | Easy |
