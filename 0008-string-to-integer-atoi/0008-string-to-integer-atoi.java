@@ -1,6 +1,6 @@
 class Solution {
     public int myAtoi(String s) {
-        double result=0;
+        long result=0;
         boolean negative=false;
         int i=0;
         if(s.length()==0) return 0;
@@ -15,11 +15,11 @@ class Solution {
         }
         while(i<s.length() && Character.isDigit(s.charAt(i))){
            result=result*10+(s.charAt(i)-'0');
+           if(!negative && result>=Integer.MAX_VALUE) return Integer.MAX_VALUE;
+           if(negative && -result<=Integer.MIN_VALUE) return Integer.MIN_VALUE;
            i++;
         }
-        if(!negative && result>=Integer.MAX_VALUE) return Integer.MAX_VALUE;
-        if(negative && result*(-1)<=Integer.MIN_VALUE) return Integer.MIN_VALUE;
-        if(negative) return (int) (result*-1);
-        return (int)result;
+        
+       return negative? (int)(-result):(int)result;
     }
 }
