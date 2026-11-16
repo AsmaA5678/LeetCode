@@ -1,31 +1,38 @@
 class Solution {
     public String convert(String s, int numRows) {
-        if (numRows == 1) return s;
-        StringBuilder[] rows = new StringBuilder[numRows];
-        for (int i = 0; i < numRows; i++) {
-            rows[i] = new StringBuilder();
+        if(numRows == 1||numRows >= s.length()) return s;
+        int numCols=(s.length() / (2 * numRows - 2) + 1) * (numRows - 1);
+        char[][] result = new char[numRows][numCols];
+        for (int r = 0; r < result.length; r++) {
+            Arrays.fill(result[r], ' ');
         }
-        
-        int current = 0;
-        boolean goingDown = false;
-
-        for (char c : s.toCharArray()) {
-            rows[current].append(c);
-            if (current == 0 || current == numRows - 1) {
-                goingDown = !goingDown;
+        int i=0;
+        int j=0;
+        int current=0;
+        while(current!=s.length()){
+            while(i<numRows && current<s.length()){
+                result[i][j]=s.charAt(current);
+                i++;
+                current++;
             }
-            if (goingDown) {
-                current += 1; 
-            } else {
-                current -= 1; 
+            i--;
+            while(i>0 && current<s.length()){
+                i--;
+                j++;
+                result[i][j]=s.charAt(current);
+                current++;
+            }
+            i++;
+        }
+        StringBuilder out=new StringBuilder();
+        for(int r=0;r<result.length;r++){
+            for(int c=0;c<result[0].length;c++){
+                if(result[r][c]!=' '){
+                    out.append(result[r][c]);
+                }
             }
         }
-
-        StringBuilder result = new StringBuilder();
-        for (StringBuilder row : rows) {
-            result.append(row);
-        }
-
-        return result.toString();
+        return out.toString();
     }
 }
+
