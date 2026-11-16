@@ -1,32 +1,25 @@
 class Solution {
     public int myAtoi(String s) {
-        int result = 0;
-        int i = 0;
-
-        while (i < s.length() && s.charAt(i) == ' ') {
+        double result=0;
+        boolean negative=false;
+        int i=0;
+        if(s.length()==0) return 0;
+        while(i<s.length() && s.charAt(i)==' '){
             i++;
         }
-
-        int sign = 1;
-
-        if (i < s.length() && s.charAt(i) == '-') {
-            sign = -1;
+        if(i<s.length() &&  s.charAt(i)=='-'){
+            negative=true;
             i++;
-        } else if (i < s.length() && s.charAt(i) == '+') {
+        }else if(i<s.length() &&  s.charAt(i)=='+'){
             i++;
         }
-
-        while (i < s.length() && Character.isDigit(s.charAt(i))) {
-            int digit = s.charAt(i) - '0';
-
-            if (result > (Integer.MAX_VALUE - digit) / 10) {
-                return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
-            }
-
-            result = result * 10 + digit;
-            i++;
+        while(i<s.length() && Character.isDigit(s.charAt(i))){
+           result=result*10+(s.charAt(i)-'0');
+           i++;
         }
-
-        return result * sign;
+        if(negative==false && result>=Integer.MAX_VALUE) return Integer.MAX_VALUE;
+        if(negative==true && result*(-1)<=Integer.MIN_VALUE) return Integer.MIN_VALUE;
+        if(negative) return (int) result*(-1);
+        return (int)result;
     }
 }
