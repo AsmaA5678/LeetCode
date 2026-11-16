@@ -19,7 +19,7 @@ class Solution {
         }
         if(negative==false && result>=Integer.MAX_VALUE) return Integer.MAX_VALUE;
         if(negative==true && result*(-1)<=Integer.MIN_VALUE) return Integer.MIN_VALUE;
-        if(negative) return (int) result*(-1);
+        if(negative) return (int) (result*-1);
         return (int)result;
     }
 }
