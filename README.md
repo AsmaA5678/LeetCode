@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/AsmaA5678/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AsmaA5678/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AsmaA5678/LeetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/AsmaA5678/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AsmaA5678/LeetCode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/AsmaA5678/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AsmaA5678/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-3sum-with-multiplicity](https://github.com/AsmaA5678/LeetCode/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/AsmaA5678/LeetCode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1424-diagonal-traverse-ii](https://github.com/AsmaA5678/LeetCode/tree/main/1424-diagonal-traverse-ii/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/AsmaA5678/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AsmaA5678/LeetCode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/AsmaA5678/LeetCode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 ## String
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/AsmaA5678/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AsmaA5678/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AsmaA5678/LeetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/AsmaA5678/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/AsmaA5678/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AsmaA5678/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AsmaA5678/LeetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/AsmaA5678/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AsmaA5678/LeetCode/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AsmaA5678/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
