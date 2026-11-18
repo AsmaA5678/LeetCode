@@ -5,8 +5,9 @@ class Solution {
            char[] chars=s.toCharArray();
            Arrays.sort(chars);
            String sorted=new String(chars);
-           
-           map.computeIfAbsent(sorted,k->new ArrayList<>()).add(s);
+           List<String> current=map.getOrDefault(sorted,new ArrayList<>());
+           current.add(s);
+           map.put(sorted,current);
         }
         return new ArrayList<>(map.values());
     }
