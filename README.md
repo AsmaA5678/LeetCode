@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/AsmaA5678/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AsmaA5678/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/AsmaA5678/LeetCode/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/AsmaA5678/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/AsmaA5678/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AsmaA5678/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AsmaA5678/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/AsmaA5678/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AsmaA5678/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AsmaA5678/LeetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 ## Simulation
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/AsmaA5678/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AsmaA5678/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
