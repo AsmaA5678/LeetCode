@@ -1,24 +1,23 @@
 class Solution {
-    public int characterReplacement(String s, int k) {
+    public int characterReplacement(String s, int k) {       
         int[] count=new int[26];
+        int max=Integer.MIN_VALUE;
+        int mostSeen=0;
+        int i=0;
         int left=-1;
-        int right=0;
-        int max=0;
-        int highest=0;
-        while(right<s.length()){
-            count[s.charAt(right)-'A']++;
-            highest = Math.max(highest, count[s.charAt(right) - 'A']);
-            if(right-left-highest<=k){
-                max=Math.max(max,right-left);
+        while(i<s.length()){
+            count[s.charAt(i)-'A']++;
+            mostSeen=Math.max(mostSeen,count[s.charAt(i)-'A']);
+            if(i-left-mostSeen<=k){
+                max=Math.max(max,i-left);
             }
-            while(right-left-highest>k){
+            while(i-left-mostSeen>k){
                 left++;
                 count[s.charAt(left)-'A']--;
             }
-            right++;
+            i++;
         }
         return max;
-        
     }
     
 }
