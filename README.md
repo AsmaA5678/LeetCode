@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/AsmaA5678/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/AsmaA5678/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AsmaA5678/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/AsmaA5678/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AsmaA5678/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/AsmaA5678/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AsmaA5678/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/AsmaA5678/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AsmaA5678/LeetCode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AsmaA5678/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Simulation
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/AsmaA5678/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AsmaA5678/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AsmaA5678/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/AsmaA5678/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AsmaA5678/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/AsmaA5678/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsmaA5678/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/AsmaA5678/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/AsmaA5678/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
