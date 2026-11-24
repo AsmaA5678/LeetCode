@@ -7,8 +7,8 @@ class Solution {
             int j=i+1;
             int start=intervals[i][0];
             int end=intervals[i][1];
-            while(j<intervals.length && intervals[j][0]<=end){
-                end=Math.max(intervals[j][1],end);
+            while(j<intervals.length && end>=intervals[j][0]){
+                end=Math.max(end,intervals[j][1]);
                 j++;
             }
             result.add(new int[]{start,end});
