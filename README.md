@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/AsmaA5678/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AsmaA5678/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsmaA5678/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0228-summary-ranges](https://github.com/AsmaA5678/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/AsmaA5678/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AsmaA5678/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0289-game-of-life](https://github.com/AsmaA5678/LeetCode/tree/main/0289-game-of-life/) | Medium |
