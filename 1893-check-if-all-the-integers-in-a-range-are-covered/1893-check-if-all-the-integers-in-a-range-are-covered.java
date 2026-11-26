@@ -1,15 +1,14 @@
 class Solution {
     public boolean isCovered(int[][] ranges, int left, int right) {
         Arrays.sort(ranges,(a,b)->Integer.compare(a[0],b[0]));
-        int j=0;
-        int i=left;
-        while(j<ranges.length){
-            while(j<ranges.length && i<=right && i>=ranges[j][0] && i<=ranges[j][1]){
-                i++;
+        int current=left;
+        for(int[] range:ranges){
+            if(range[0]>current) return false;
+            if(range[1]>=current){
+                current=range[1]+1;
             }
-            j++;
+            if(current>right) return true;
         }
-        if(i<=right) return false;
-        return true;       
+        return false;
     }
 }
